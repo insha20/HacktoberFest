@@ -1,3 +1,5 @@
+package Java_Programs_for_beginners;
+
 import java.util.*;
 
 /*Given a string s, partition s such that every substring of the partition is a palindrome.
